@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateFormat", "CoordinateFormat\CoordinateFormat.csproj", "{2F9D7BD7-BE18-4230-AFD0-348134478649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoordinateFormat.Tests", "CoordinateFormat.Tests\CoordinateFormat.Tests.csproj", "{A1BEEEB9-75B2-40C3-B581-A622EB29D41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9D7BD7-BE18-4230-AFD0-348134478649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9D7BD7-BE18-4230-AFD0-348134478649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9D7BD7-BE18-4230-AFD0-348134478649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9D7BD7-BE18-4230-AFD0-348134478649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BEEEB9-75B2-40C3-B581-A622EB29D41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BEEEB9-75B2-40C3-B581-A622EB29D41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BEEEB9-75B2-40C3-B581-A622EB29D41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BEEEB9-75B2-40C3-B581-A622EB29D41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE71A298-AE63-4F2D-9419-9DABDC10D93F}
+	EndGlobalSection
+EndGlobal
